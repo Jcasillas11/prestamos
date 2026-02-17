@@ -1,4 +1,4 @@
-package es.fplumara.dam1.prestamos.repository.Implement;
+package es.fplumara.dam1.prestamos.Repository;
 
 import es.fplumara.dam1.prestamos.model.Identificable;
 
